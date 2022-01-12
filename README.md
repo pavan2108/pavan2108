@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=pavan2108&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108)](https://github.com/pavan2108/github-readme-stats)
+
 ![views](https://visitor-badge.glitch.me/badge?page_id=pavan2108.pavan2108)
 
 ### Languages and Tools:
