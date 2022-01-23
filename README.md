@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My first line of code is "hello world"
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavan2108?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavan2108?cardType=level&theme=github-dark&Border=DDCEB3&Ring=0B2DDD)](https://git.io/awesome-stats-card)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108)](https://github.com/pavan2108/github-readme-stats)
