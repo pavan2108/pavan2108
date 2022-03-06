@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108&exclude_repo=github-readme-stats,pavan2108.github.io)](https://github.com/pavan2108/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan2108&" alt="pavan2108" /></p>
+
+
 
 ![views](https://visitor-badge.glitch.me/badge?page_id=pavan2108.pavan2108)
 
