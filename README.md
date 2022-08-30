@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My first line of code is "hello world"
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavan2108?cardType=level&theme=vue-dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavan2108?cardType=level&theme=vue-dark&count_private=true)](https://git.io/awesome-stats-card)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108&exclude_repo=github-readme-stats,pavan2108.github.io)](https://github.com/pavan2108/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108&exclude_repo=github-readme-stats,pavan2108.github.io&langs_count=10&layout=compact)](https://github.com/pavan2108/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan2108&" alt="pavan2108" /></p>
 
