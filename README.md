@@ -14,95 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: My first line of code is "hello world"
 
+### 🛠 Languages and Tools
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+![DJANGO](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![FLASK](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=42A5F5)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=42A5F5)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=42A5F5)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=42A5F5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=Atom&logoColor=white)&nbsp;
+![Clion](https://img.shields.io/badge/CLion-05122A?style=flat&logo=clion&logoColor=skyblue)&nbsp;
+![Pycharm](https://img.shields.io/badge/PyCharm-05122A.svg?&style=flat&logo=PyCharm&logoColor=palegreen)&nbsp;
+![Colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)&nbsp;
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Material Ui](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=white)&nbsp;
+![mysql](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
+![heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=white)&nbsp;
+![vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel&logoColor=white)&nbsp;
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavan2108?cardType=level&theme=vue-dark&count_private=true)](https://git.io/awesome-stats-card)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan2108&exclude_repo=github-readme-stats,pavan2108.github.io&langs_count=10&layout=compact)](https://github.com/pavan2108/github-readme-stats)
+### ⚙️ GitHub Analytics
+<p>
+<a href="https://github.com/pavan2108">
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api?username=pavan2108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pavan2108&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan2108&" alt="pavan2108" /></p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pavan2108&theme=algolia)
+
 
 
 
 ![Profile View Counter](https://visitor-badge.glitch.me/badge?page_id=pavan2108.pavan2108)
-
-### Languages and Tools:
-
-#### Code Editors
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="26px"
-     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<br />
-
-#### Languages
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<br />
-
-### Frameworks
-
-
-##### Python Frameworks
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" 
-/>
-<img align="left" alt="Flask" width="26px"
-     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"
-     />
-
-<br />
-
-##### Css Frameworks and Libraries
-
-<img align="left" alt="Tailwind Css" width="26px"
-     src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg"
-     />
-<img align="left" alt="Bootstrap" width="26px"
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
-     />
-<br />
-
-##### Javascript Frameworks and Libraries
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Next js" width="26px"
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png"
-     />
- <img align="left" alt="Jquery" width="26px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"
-      />
-<img align="left" alt="Ajax" width="26px"
-     src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png"
-     />
- 
- <br />
- 
-##### Database Tools
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Mongoose" width="26px"
-     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
-     />
-
-<br />
-
-##### Other Tools
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Github" width="26px"
-     src="https://github.com/fluidicon.png"
-     />
-<img align="left" alt="Heroku" width="26px"
-     src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png"
-     />
-<img align="left" alt="Vercel" width="26px"
-     src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg"
-     />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
