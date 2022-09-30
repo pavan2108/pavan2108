@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ GitHub Analytics
+![Few Stats](https://github-profile-trophy.vercel.app/?username=pavan2108&theme=onedark)
+
 <p>
 <a href="https://github.com/pavan2108">
   <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api?username=pavan2108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp
