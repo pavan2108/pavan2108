@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ GitHub Analytics
+
+![IMG](https://activity-graph.herokuapp.com/graph?username=pavan2108&theme=react-dark)
+
 ![Few Stats](https://github-profile-trophy.vercel.app/?username=pavan2108&theme=onedark)
 
 <p>
