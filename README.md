@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 
 
 
-![Profile View Counter](https://visitor-badge.glitch.me/badge?page_id=pavan2108.pavan2108)
+![Profile View Counter](https://komarev.com/ghpvc/?username=pavan2108&style=plastic&label=PROFILE+VIEWS)
