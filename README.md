@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I'm currently learning Mern stack
+- 🌱 I'm currently learning nestjs stack
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about mern, django, flask, mern, galaxies
+- 💬 Ask me about mern, django, flask, nestjs, galaxies
 - 📫 How to reach me: Email Me at: pavansssai2001@gmail.com
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: My first line of code is "hello world"
