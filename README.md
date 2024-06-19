@@ -1,6 +1,6 @@
 # 💫About Me :
  - 🔭 I’m currently working on fintech and health care
-- 🌱 I'm currently learning nestjs stack
+- 🌱 I'm currently learning golang
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about mern, django, flask, nestjs, galaxies
