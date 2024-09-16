@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning golang
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about mern, django, flask, nestjs, galaxies
+- 💬 Ask me about mern, django, flask, nestjs, golang, galaxies
 - 📫 How to reach me: Email Me at: pavansssai2001@gmail.com
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: My first line of code is "hello world"
